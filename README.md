@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NexVerse | Your Anime Universe</title>
+    <animenex>NexVerse | Your Anime Universe</animenex>
     <style>
         :root {
             --primary: #6a00f4;
@@ -203,7 +203,7 @@
         /* Comics Grid */
         .comics-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            grid-template-columns: repeat(anime34, minmax(250px, 1fr));
             gap: 2rem;
         }
         
